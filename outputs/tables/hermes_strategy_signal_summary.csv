@@ -1,0 +1,6 @@
+Strategy,Signal Column,Average Exposure,Invested Days,Cash / Reduced Days,Invested Day Share,Exposure Level,Interpretation
+Trend Following Overlay,trend_following_signal,0.7991520932697403,1508,379,0.7991520932697403,Partially Invested,"Trend Following Overlay was invested on 79.92% of available days, with average exposure classified as Partially Invested."
+Defensive Cash Overlay,defensive_cash_signal,0.7493375728669847,1414,473,0.7493375728669847,Partially Invested,"Defensive Cash Overlay was invested on 74.93% of available days, with average exposure classified as Partially Invested."
+Volatility Target Overlay,volatility_target_exposure,0.6307089522272651,1508,379,0.7991520932697403,Partially Invested,"Volatility Target Overlay was invested on 79.92% of available days, with average exposure classified as Partially Invested."
+Risk-Control Overlay,risk_control_signal,0.598834128245893,1130,757,0.598834128245893,Partially Invested,"Risk-Control Overlay was invested on 59.88% of available days, with average exposure classified as Partially Invested."
+Momentum Overlay,momentum_signal,0.5347111817700053,1009,878,0.5347111817700053,Partially Invested,"Momentum Overlay was invested on 53.47% of available days, with average exposure classified as Partially Invested."

@@ -1,0 +1,6 @@
+Metric,Value,Interpretation
+Model R-Squared,0.6121683578591974,Share of Hermès daily return variation explained by the selected factors.
+Adjusted R-Squared,0.6113880125027773,R-squared adjusted for the number of explanatory factors.
+Residual Mean,-3.058266134065283e-17,Average unexplained daily return after accounting for factors.
+Residual Std Dev,0.01047188705654525,Volatility of unexplained daily returns after factor adjustment.
+Observations,1993.0,Number of overlapping daily observations used.

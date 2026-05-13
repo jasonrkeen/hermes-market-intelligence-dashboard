@@ -1,0 +1,7 @@
+Card,Value,Display Value,Interpretation
+Overall Market Intelligence View,Constructive but monitored,Constructive but monitored,"Overall project-level view after combining model, market, valuation, news, and geopolitical signals."
+Positive Signals,6,6,Number of dashboard indicators classified as positive.
+Catalyst-Leaning External Signals,1,1,"Number of valuation, news, or external signals that lean toward catalysts."
+Negative Signals,0,0,Number of dashboard indicators classified as negative.
+Risk-Leaning External Signals,2,2,"Number of valuation, news, or external signals that lean toward risks."
+Neutral Signals,3,3,Number of dashboard indicators classified as neutral.

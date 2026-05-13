@@ -1,0 +1,9 @@
+Card,Value,Display Value,Numeric Value,Interpretation
+Annualized Return,0.17003114577713307,17.00%,0.17003114577713307,Annualized return is classified as Strong.
+Annualized Volatility,0.26337681957145015,26.34%,0.26337681957145015,Annualized volatility is classified as Elevated.
+Sharpe Ratio,0.6156719390359429,0.62,0.6156719390359429,Sharpe ratio quality is classified as Acceptable.
+Sortino Ratio,0.8734322695406506,0.87,0.8734322695406506,Sortino ratio measures return quality relative to downside volatility.
+Max Drawdown,-0.44643762025764866,-44.64%,-0.44643762025764866,Maximum drawdown severity is classified as High.
+VaR 95%,-0.02636060049581623,-2.64%,-0.02636060049581623,Historical one-day 95% VaR estimates the left-tail daily return threshold.
+Expected Shortfall 95%,-0.03799561329162286,-3.80%,-0.03799561329162286,Expected shortfall estimates the average daily loss beyond the VaR threshold.
+Risk Profile,High Risk,High Risk,,"Overall risk view based on volatility, drawdown, tail risk, and risk-adjusted return quality."

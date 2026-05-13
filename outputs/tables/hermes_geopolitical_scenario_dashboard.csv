@@ -1,0 +1,6 @@
+Scenario,Revenue Growth Adjustment pct,Margin Adjustment pct,Valuation Multiple Adjustment pct,Stress Score,Severity,Interpretation
+Combined Geopolitical Stress,-5.0,-1.0,-12.0,74.0,High,"Scenario implies a meaningful geopolitical stress case through -5.00 percentage-point revenue-growth adjustment, -1.00 percentage-point margin adjustment, and -12.00% valuation-multiple adjustment."
+China Demand Shock,-3.0,-0.5,-8.0,45.0,Elevated,Scenario implies a moderate stress case that should be monitored alongside valuation and risk-model outputs.
+FX and Rate Pressure,-2.0,-0.2,-6.0,30.0,Moderate,Scenario implies a limited but relevant geopolitical adjustment.
+Middle East / Tourism Shock,-1.5,-0.3,-5.0,25.0,Moderate,Scenario implies a limited but relevant geopolitical adjustment.
+Base Geopolitical Risk,0.0,0.0,0.0,0.0,Low,Scenario implies a low geopolitical adjustment under current assumptions.

@@ -1,0 +1,10 @@
+Card,Value,Display Value,Numeric Value,Interpretation
+Latest Year,2025,2025,2025.0,Most recent year included in the shareholder-return dataset.
+Market Capitalization,224.02,€224.02bn,224.02,Latest official market capitalization in EUR billions.
+EPS,43.15,€43.15,43.15,Latest earnings per share.
+Dividend per Share,18.0,€18.00,18.0,Latest ordinary dividend per share.
+Dividend Payout Ratio,0.4171494785631518,41.71%,0.4171494785631518,Payout policy is classified as Conservative.
+Dividend Yield,0.8482563619227144,0.85%,0.8482563619227144,Dividend yield is classified as Low Yield.
+Implied Year-End P/E,49.17728852838934,49.18x,49.17728852838934,Year-end valuation multiple is classified as Elevated Multiple.
+12-Month Share Price Range,41.438732035294215,41.44%,41.438732035294215,Measures the 12-month high-low range relative to average share price.
+Dividend Policy Signal,Conservative,Conservative,0.4171494785631518,"Dividend payout appears conservative, suggesting earnings retention and balance-sheet flexibility remain important."

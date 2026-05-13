@@ -1,0 +1,5 @@
+Metric,Value,Interpretation
+Final Score,66.13788929707366,Composite Hermès Luxury Intelligence Score.
+Signal,Moderately Constructive,Investment-style signal derived from the final score.
+Strongest Component,VaR Calibration,Component with the highest standalone score.
+Weakest Component,Drawdown Resilience,Component with the lowest standalone score.

@@ -1,0 +1,14 @@
+Step,Metric,Value,Numeric Value,Interpretation
+Forecast,2026 Revenue,"€17,202.15m",17202.149999999998,First forecast-year revenue assumption.
+Forecast,2030 Revenue,"€21,921.71m",21921.710629344743,Final forecast-year revenue assumption.
+Forecast,2026 EPS,€46.44,46.43970878610178,First forecast-year earnings per share.
+Forecast,2030 EPS,€60.01,60.0114583557653,Final forecast-year earnings per share.
+Forecast,2030 Adjusted FCF,"€5,480.43m",5480.427657336186,Final forecast-year adjusted free cash flow.
+DCF,DCF Fair Value,€890.10,890.1032613995782,Fair value per share from discounted cash flow valuation.
+Peer Multiple,Peer Bear Fair Value,"€1,764.71",1764.7089338718677,Lower-end peer multiple fair value estimate.
+Peer Multiple,Peer Base Fair Value,"€2,089.79",2089.78689537458,Median or base peer multiple fair value estimate.
+Peer Multiple,Peer Bull Fair Value,"€2,414.86",2414.864856877293,Upper-end peer multiple fair value estimate.
+Fair Value Range,Base Fair Value,"€1,927.25",1927.247914623224,Median fair value across available DCF and peer outputs.
+Market Comparison,Current Price,"€1,578.00",1578.0,Market price used for comparison.
+Market Comparison,Base Implied Upside / Downside,22.13%,0.22132313981192908,Material Upside
+Valuation Signal,Valuation Signal,Valuation Supportive,0.22132313981192908,Final rules-based valuation view.

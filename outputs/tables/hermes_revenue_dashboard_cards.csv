@@ -1,0 +1,10 @@
+Card,Value,Display Value,Numeric Value,Interpretation
+Q1 2026 Revenue,4070.0,"€4,070m",4070.0,Total Hermès Group Q1 2026 revenue in EUR millions.
+Reported Growth,-1.4,-1.4%,-1.4,Reported year-over-year Q1 growth including currency effects.
+Constant-FX Growth,5.6,5.6%,5.6,Underlying Q1 growth excluding currency effects.
+Group FX Gap,7.0,7.0 pp,7.0,Difference between constant-FX growth and reported growth.
+Group Momentum Signal,Stable,Stable,5.6,Stable constant-FX growth indicates positive but moderate operating momentum.
+Strongest Region,Americas,Americas (17.2%),17.2,Geographic segment with the strongest constant-FX growth.
+Strongest Sector,Leather Goods and Saddlery,Leather Goods and Saddlery (9.4%),9.4,Sector with the strongest constant-FX growth.
+Largest Region Contributor,Total Asia,"Total Asia (€2,285m)",2285.0,Largest Q1 2026 geographic revenue contributor.
+Largest Sector Contributor,Leather Goods and Saddlery,"Leather Goods and Saddlery (€1,849m)",1849.0,Largest Q1 2026 sector revenue contributor.

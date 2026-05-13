@@ -1,0 +1,8 @@
+Metric,Value,Interpretation
+Probability of Positive Return,0.728,Share of simulated final prices above the current price.
+Probability of Negative Return,0.272,Share of simulated final prices below the current price.
+Probability of Return <= -10%,0.158,Share of simulations at or below the downside threshold.
+Probability of Return >= 10%,0.593,Share of simulations at or above the upside threshold.
+Simulated Final Price Mean,1909.5554361024756,Average simulated final price across all paths.
+Simulated Final Price Median,1848.337870118227,Median simulated final price across all paths.
+Simulated Final Price Std Dev,514.5153851826476,Dispersion of simulated final prices across all paths.

@@ -1,0 +1,13 @@
+Priority,Type,Category,Indicator,Assessment,Monitoring Note,Action Note
+High,Risk,Geopolitical Risk,Geopolitical Risk Posture,Elevated,"Summarizes geopolitical risk exposure across tourism, China demand, FX, trade, and regional disruption.","Monitor tourism, China demand, FX, trade, and regional disruption indicators."
+High,Risk,News Flow,News Intelligence Tone,Risk-Leaning,Rules-based summary of recent news headlines and market themes.,Monitor recent headline tone and whether negative themes persist.
+Medium,Catalyst,Market Performance,Annualized Return,Positive,Measures Hermès' annualized historical return over the analysis period.,Monitor whether this catalyst continues to support the market intelligence view.
+Medium,Catalyst,Revenue Momentum,Q1 2026 Constant-FX Growth,Positive,Captures current reported operating momentum adjusted for currency effects.,Monitor whether this catalyst continues to support the market intelligence view.
+Medium,Catalyst,Risk Profile,Annualized Volatility,Positive,Lower volatility improves the risk profile; elevated volatility increases uncertainty.,Monitor whether this catalyst continues to support the market intelligence view.
+Medium,Catalyst,Scenario Support,Base Case Scenario Return,Positive,Shows whether factor-based base-case assumptions support positive estimated return.,Monitor whether this catalyst continues to support the market intelligence view.
+Medium,Catalyst,Strategic Moat,Qualitative Moat Score,Positive,"Measures craftsmanship, exclusivity, brand strength, vertical integration, and shareholder communication quality.",Monitor whether this catalyst continues to support the market intelligence view.
+Medium,Catalyst,Valuation,Implied Upside / Downside,Positive,Compares base fair value estimate with current market price.,Monitor whether this catalyst continues to support the market intelligence view.
+Medium,Catalyst,Valuation,Valuation Signal,Valuation Supportive,Rules-based valuation view comparing fair value range against current market price.,Monitor whether this catalyst continues to support the market intelligence view.
+Monitor,Watch Item,Model Signal,Hermès Luxury Intelligence Score,Neutral,"Composite score combining return, risk, factor, scenario, moat, and revenue-momentum signals.",Track Hermès Luxury Intelligence Score because the current assessment is Neutral.
+Monitor,Watch Item,Risk Profile,Maximum Drawdown,Neutral,Large drawdowns highlight valuation sensitivity and downside risk.,Track Maximum Drawdown because the current assessment is Neutral.
+Monitor,Watch Item,Risk-Adjusted Return,Sharpe Ratio,Neutral,Measures return quality relative to volatility.,Track Sharpe Ratio because the current assessment is Neutral.

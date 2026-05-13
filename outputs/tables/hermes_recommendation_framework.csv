@@ -1,0 +1,11 @@
+Component,Input,Points,Scoring Role,Interpretation
+Hermès Luxury Intelligence Score,66.13788929707366,1,Scoring Component,"Measures combined return, risk, scenario, moat, and revenue-momentum support."
+Valuation Signal,Valuation Supportive,2,Scoring Component,Compares fair value range against current market price.
+Implied Upside / Downside,0.22132313981192908,0,Supporting Evidence,Supporting evidence behind the valuation score. The valuation points are assigned once through the Valuation Signal component.
+Market Intelligence View,Constructive but monitored,1,Scoring Component,Summarizes dashboard-level market intelligence conditions.
+News Flow Tone,Risk-Leaning,-1,Scoring Component,Rules-based classification of recent news flow.
+Geopolitical Risk Posture,Elevated,-1,Scoring Component,"Captures geopolitical pressure from tourism, FX, China, trade, and regional risk."
+Total Recommendation Points,2,2,Final Output,Aggregate score used to assign recommendation category.
+Final Recommendation,Neutral,2,Final Output,Rules-based recommendation classification.
+Risk Rating,Medium-High,2,Final Output,"Risk rating based on score quality, valuation downside, and geopolitical posture."
+Conviction,Low,2,Final Output,Conviction level based on the strength of the aggregate recommendation score.

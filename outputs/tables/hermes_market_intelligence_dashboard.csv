@@ -1,0 +1,13 @@
+Category,Indicator,Value,Assessment,Interpretation
+Model Signal,Hermès Luxury Intelligence Score,66.13788929707366,Neutral,"Composite score combining return, risk, factor, scenario, moat, and revenue-momentum signals."
+Market Performance,Annualized Return,0.17003114577713307,Positive,Measures Hermès' annualized historical return over the analysis period.
+Risk Profile,Annualized Volatility,0.26337681957145015,Positive,Lower volatility improves the risk profile; elevated volatility increases uncertainty.
+Risk Profile,Maximum Drawdown,-0.44643762025764866,Neutral,Large drawdowns highlight valuation sensitivity and downside risk.
+Risk-Adjusted Return,Sharpe Ratio,0.6156719390359429,Neutral,Measures return quality relative to volatility.
+Scenario Support,Base Case Scenario Return,0.13403075790067023,Positive,Shows whether factor-based base-case assumptions support positive estimated return.
+Revenue Momentum,Q1 2026 Constant-FX Growth,5.6,Positive,Captures current reported operating momentum adjusted for currency effects.
+Strategic Moat,Qualitative Moat Score,92.3076923076923,Positive,"Measures craftsmanship, exclusivity, brand strength, vertical integration, and shareholder communication quality."
+Valuation,Valuation Signal,Valuation Supportive,Valuation Supportive,Rules-based valuation view comparing fair value range against current market price.
+Valuation,Implied Upside / Downside,0.22132313981192908,Positive,Compares base fair value estimate with current market price.
+News Flow,News Intelligence Tone,Risk-Leaning,Risk-Leaning,Rules-based summary of recent news headlines and market themes.
+Geopolitical Risk,Geopolitical Risk Posture,Elevated,Elevated,"Summarizes geopolitical risk exposure across tourism, China demand, FX, trade, and regional disruption."

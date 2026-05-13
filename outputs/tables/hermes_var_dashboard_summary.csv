@@ -1,0 +1,3 @@
+Model,Observations,VaR Breaches,Expected Breach Rate,Breach Rate,Average VaR,Average Expected Shortfall,Kupiec LR Statistic,Classification,Interpretation
+GARCH-Style EWMA VaR,2052,115,0.050000000000000044,0.05604288499025341,-0.02603183508294746,,1.520708320168751,Close to Expected,Observed breaches are broadly in line with the expected breach rate.
+Historical Simulation VaR,2052,126,0.050000000000000044,0.06140350877192982,-0.025209232764962362,-0.034632690188260914,5.253898614642594,Close to Expected,Observed breaches are broadly in line with the expected breach rate.

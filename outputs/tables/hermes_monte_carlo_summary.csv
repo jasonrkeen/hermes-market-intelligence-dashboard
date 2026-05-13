@@ -1,0 +1,10 @@
+Metric,Value,Interpretation
+Current Price,1578.0,Starting share price used in the Monte Carlo simulation.
+Expected Price,1909.5554361024756,Average simulated price at the end of the forecast horizon.
+Median Price,1848.337870118227,Median simulated price at the end of the forecast horizon.
+Downside P05 Price,1219.6541368253374,Fifth-percentile simulated price; downside stress estimate.
+Upside P95 Price,2876.373597306223,Ninety-fifth-percentile simulated price; upside scenario estimate.
+Expected Return,0.21011117623731024,Expected return implied by the mean simulated final price.
+Median Return,0.17131677447289428,Return implied by the median simulated final price.
+Downside P05 Return,-0.22708863319053396,Return implied by the fifth-percentile simulated final price.
+Upside P95 Return,0.8227969564678219,Return implied by the ninety-fifth-percentile simulated final price.

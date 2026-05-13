@@ -1,0 +1,9 @@
+Category,Risk Count,Average Risk Score,Maximum Risk Score,Highest Risk Factor
+China / Demand,1,80.0,80.0,China Demand / Policy Risk
+Currency,1,80.0,80.0,FX / Strong Euro Risk
+Market / Valuation,1,80.0,80.0,Luxury Sector Re-rating
+Regional / Tourism,1,80.0,80.0,Middle East Conflict / Tourism Disruption
+Macro,1,60.0,60.0,Energy / Inflation Risk
+Trade Policy,1,60.0,60.0,Trade / Tariff Risk
+Operations,1,40.0,40.0,Supply Chain / Logistics Risk
+Technology / Operational,1,40.0,40.0,Cyber / Operational Risk

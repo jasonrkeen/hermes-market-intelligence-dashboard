@@ -1,0 +1,6 @@
+Scenario,Revenue Growth Adjustment pct,Margin Adjustment pct,Valuation Multiple Adjustment pct,Stress Score
+Base Geopolitical Risk,0.0,0.0,0.0,0.0
+Middle East / Tourism Shock,-1.5,-0.3,-5.0,25.0
+China Demand Shock,-3.0,-0.5,-8.0,45.0
+FX and Rate Pressure,-2.0,-0.2,-6.0,30.0
+Combined Geopolitical Stress,-5.0,-1.0,-12.0,74.0

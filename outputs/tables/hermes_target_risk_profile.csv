@@ -1,0 +1,7 @@
+Profile Area,Value,Classification,Interpretation
+Return Quality,0.17003114577713307,Strong,Annualized return is classified as Strong.
+Volatility Level,0.26337681957145015,Elevated,Annualized volatility is classified as Elevated.
+Drawdown Severity,-0.44643762025764866,High,Maximum drawdown severity is classified as High.
+Sharpe Quality,0.6156719390359429,Acceptable,Sharpe ratio quality is classified as Acceptable.
+Tail-Risk Severity,-0.03799561329162286,Moderate,Tail-risk severity is based on historical VaR and expected shortfall.
+Overall Risk View,High Risk,High Risk,"Overall view combines return quality, volatility, drawdown, Sharpe quality, and tail-risk severity."

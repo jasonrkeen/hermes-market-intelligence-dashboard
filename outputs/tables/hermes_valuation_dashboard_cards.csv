@@ -1,0 +1,8 @@
+Card,Value,Display Value,Numeric Value,Interpretation
+Current Price,1578.0,"€1,578.00",1578.0,Latest available market price used for valuation comparison.
+Base Fair Value,1927.247914623224,"€1,927.25",1927.247914623224,Median fair value estimate across DCF and peer multiple outputs.
+Implied Upside / Downside,0.22132313981192908,22.13%,0.22132313981192908,Material Upside
+Valuation Signal,Valuation Supportive,Valuation Supportive,0.22132313981192908,Rules-based valuation classification used in the recommendation framework.
+DCF Fair Value,890.1032613995782,€890.10,890.1032613995782,Material Downside
+Bear Fair Value,890.1032613995782,€890.10,890.1032613995782,Material Downside
+Bull Fair Value,2414.864856877293,"€2,414.86",2414.864856877293,Material Upside

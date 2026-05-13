@@ -1,0 +1,10 @@
+Component,Score,Weight,Weight Display,Weighted Score,Contribution Share,Contribution Share Display,Classification,Interpretation
+Return Quality,70.40373749325596,0.12,12.00%,8.448448499190715,0.12773991714858862,12.77%,Supportive,Return Quality is supportive but not the strongest driver.
+Volatility Control,52.59217247713897,0.12,12.00%,6.311060697256677,0.09542277149047024,9.54%,Neutral,Volatility Control is broadly neutral in the composite score.
+Drawdown Resilience,28.56998075877621,0.14,14.00%,3.99979730622867,0.060476639770928486,6.05%,Weak,Drawdown Resilience is a weaker component and may weigh on the overall score.
+Risk-Adjusted Return,61.08209490264697,0.14,14.00%,8.551493286370578,0.1292979467179481,12.93%,Supportive,Risk-Adjusted Return is supportive but not the strongest driver.
+Factor Explainability,76.73010147155185,0.08,8.00%,6.138408117724148,0.09281227724326166,9.28%,Strong,Factor Explainability is a strong contributor to the composite score.
+VaR Calibration,93.0214424951267,0.08,8.00%,7.441715399610136,0.11251818705891788,11.25%,Strong,VaR Calibration is a strong contributor to the composite score.
+Scenario Support,66.08369094808043,0.12,12.00%,7.930042913769651,0.11990166299607818,11.99%,Supportive,Scenario Support is supportive but not the strongest driver.
+Strategic Moat / Qualitative Signal,92.3076923076923,0.12,12.00%,11.076923076923077,0.16748225857599583,16.75%,Strong,Strategic Moat / Qualitative Signal is a strong contributor to the composite score.
+Recent Revenue Momentum,78.0,0.08,8.00%,6.24,0.09434833899781099,9.43%,Strong,Recent Revenue Momentum is a strong contributor to the composite score.

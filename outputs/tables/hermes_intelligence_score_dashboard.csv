@@ -1,0 +1,6 @@
+Card,Value,Display Value,Interpretation
+Hermès Luxury Intelligence Score,66.13788929707366,66.14 / 100,"Composite score based on market, risk, scenario, moat, and revenue-momentum inputs."
+Signal,Moderately Constructive,Moderately Constructive,Investment-style signal derived from the composite score.
+Strongest Component,VaR Calibration,VaR Calibration,Highest-scoring component with a score of 93.02.
+Weakest Component,Drawdown Resilience,Drawdown Resilience,Lowest-scoring component with a score of 28.57.
+Component Count,9,9,Number of component scores included in the composite score.

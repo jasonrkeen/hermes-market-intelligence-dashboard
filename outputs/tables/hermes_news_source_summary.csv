@@ -1,0 +1,29 @@
+Source,Headline Count,Average Keyword Score,Catalyst Items,Risk Items,Neutral Items,Dominant Tone
+Yahoo Finance,3,-0.6666666666666666,0,1,2,Neutral
+AD HOC NEWS,3,1.0,2,0,1,Catalyst-Leaning
+CNBC,2,-0.5,0,1,1,Risk-Leaning
+Chosunbiz,1,-1.0,0,1,0,Risk-Leaning
+Financial Times,1,-1.0,0,1,0,Risk-Leaning
+Forbes,1,-2.0,0,1,0,Risk-Leaning
+Global Banking & Finance Review,1,-3.0,0,1,0,Risk-Leaning
+MEXC,1,-3.0,0,1,0,Risk-Leaning
+MSN,1,-1.0,0,1,0,Risk-Leaning
+Reuters,1,-1.0,0,1,0,Risk-Leaning
+Seeking Alpha,1,-1.0,0,1,0,Risk-Leaning
+The Economic Times,1,-1.0,0,1,0,Risk-Leaning
+The New York Times,1,-2.0,0,1,0,Risk-Leaning
+WSJ,1,-1.0,0,1,0,Risk-Leaning
+glossy.co,1,-2.0,0,1,0,Risk-Leaning
+simplywall.st,1,-2.0,0,1,0,Risk-Leaning
+BusinessToday Malaysia,1,2.0,1,0,0,Catalyst-Leaning
+WWD,1,1.0,1,0,0,Catalyst-Leaning
+Bloomberg.com,1,0.0,0,0,1,Neutral
+Business Standard,1,0.0,0,0,1,Neutral
+ChartMill,1,0.0,0,0,1,Neutral
+Gulf News,1,0.0,0,0,1,Neutral
+Oui Speak Fashion (OSF),1,0.0,0,0,1,Neutral
+RETAILBOSS | Substack,1,0.0,0,0,1,Neutral
+Tech Times,1,0.0,0,0,1,Neutral
+TechStock²,1,0.0,0,0,1,Neutral
+The Times,1,0.0,0,0,1,Neutral
+Vogue,1,0.0,0,0,1,Neutral

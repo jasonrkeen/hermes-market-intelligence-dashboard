@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Generated runtime outputs that do not need to be versioned
+data/processed/
+outputs/snapshots/
+
+# Keep generated report PDF for portfolio/GitHub visitors
+# outputs/reports/*.pdf
+
+# Optional: uncomment these later if the repo becomes too large
+# outputs/tables/
+# outputs/charts/

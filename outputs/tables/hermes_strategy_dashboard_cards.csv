@@ -1,0 +1,9 @@
+Card,Value,Display Value,Numeric Value,Interpretation
+Best Total Return Overlay,Buy & Hold,Buy & Hold,2.600394732569832,Strategy with the highest cumulative total return in the backtest.
+Best Sharpe Overlay,Buy & Hold,Buy & Hold,0.765219554995519,Strategy with the strongest return per unit of realized volatility.
+Lowest Drawdown Overlay,Volatility Target Overlay,Volatility Target Overlay,-0.28118348582366615,Strategy with the smallest absolute maximum drawdown.
+Lowest Volatility Overlay,Momentum Overlay,Momentum Overlay,0.1681588206082346,Strategy with the lowest annualized volatility.
+Buy & Hold Total Return,2.600394732569832,260.04%,2.600394732569832,Cumulative return from remaining fully invested.
+Risk-Control Total Return,0.409597723404465,40.96%,0.409597723404465,Cumulative return from the primary risk-control overlay.
+Risk-Control Drawdown Improvement,Improved,Improved,0.03437627436848034,Compares absolute maximum drawdown for risk-control versus buy-and-hold.
+Drawdown Improvement Amount,0.03437627436848034,3.44%,0.03437627436848034,Positive values mean the risk-control overlay reduced drawdown.

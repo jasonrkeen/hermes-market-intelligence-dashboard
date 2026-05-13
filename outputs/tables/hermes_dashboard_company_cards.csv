@@ -1,0 +1,9 @@
+Card,Value,Description
+Primary Ticker,RMS.PA,Primary Yahoo Finance ticker used by the pipeline.
+Exchange,Euronext Paris,Primary listing venue.
+ISIN,FR0000052292,International securities identifier.
+U.S. OTC Reference,HESAY,U.S. over-the-counter reference ticker.
+Ownership,Independent company backed by family shareholders,High-level ownership profile.
+Business Model,Integrated craftsmanship business model,Core operating model.
+Distribution,Exclusive omnichannel and multi-local distribution network,Distribution model and channel strategy.
+Strategy Pillars,Creation; Craftsmanship; Exclusive and balanced distribution network,Official strategy themes summarized for the dashboard.

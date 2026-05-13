@@ -1,0 +1,15 @@
+Rule Area,Rule,Output
+Final Recommendation,Total points >= 4,Outperform
+Final Recommendation,Total points between -2 and 3,Neutral
+Final Recommendation,Total points <= -3,Underperform
+Valuation,Implied upside >= 15%,+2 points
+Valuation,Implied upside >= 5%,+1 point
+Valuation,Implied downside <= -15%,-2 points
+Valuation,Implied downside <= -10%,-1 point
+Intelligence Score,Score >= 75,+2 points
+Intelligence Score,Score 60-74,+1 point
+Intelligence Score,Score < 45,-2 points
+Geopolitical Risk,High risk posture,-2 points
+Geopolitical Risk,Elevated risk posture,-1 point
+News Flow,Positive / catalyst-leaning tone,+1 point
+News Flow,Risk-leaning tone,-1 point

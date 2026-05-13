@@ -1,0 +1,17 @@
+Section,Metric,Value,Interpretation
+Forecast Summary,Current Price,1578.0,Starting share price used in the Monte Carlo simulation.
+Forecast Summary,Expected Price,1909.5554361024756,Average simulated price at the end of the forecast horizon.
+Forecast Summary,Median Price,1848.337870118227,Median simulated price at the end of the forecast horizon.
+Forecast Summary,Downside P05 Price,1219.6541368253374,Fifth-percentile simulated price; downside stress estimate.
+Forecast Summary,Upside P95 Price,2876.373597306223,Ninety-fifth-percentile simulated price; upside scenario estimate.
+Forecast Summary,Expected Return,0.21011117623731024,Expected return implied by the mean simulated final price.
+Forecast Summary,Median Return,0.17131677447289428,Return implied by the median simulated final price.
+Forecast Summary,Downside P05 Return,-0.22708863319053396,Return implied by the fifth-percentile simulated final price.
+Forecast Summary,Upside P95 Return,0.8227969564678219,Return implied by the ninety-fifth-percentile simulated final price.
+Simulation Probabilities,Probability of Positive Return,0.728,Share of simulated final prices above the current price.
+Simulation Probabilities,Probability of Negative Return,0.272,Share of simulated final prices below the current price.
+Simulation Probabilities,Probability of Return <= -10%,0.158,Share of simulations at or below the downside threshold.
+Simulation Probabilities,Probability of Return >= 10%,0.593,Share of simulations at or above the upside threshold.
+Simulation Probabilities,Simulated Final Price Mean,1909.5554361024756,Average simulated final price across all paths.
+Simulation Probabilities,Simulated Final Price Median,1848.337870118227,Median simulated final price across all paths.
+Simulation Probabilities,Simulated Final Price Std Dev,514.5153851826476,Dispersion of simulated final prices across all paths.

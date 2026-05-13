@@ -1,0 +1,8 @@
+Card,Value,Display Value,Interpretation
+News Items Tracked,33,33,Total unique headlines collected from the configured watchlist.
+Catalyst Items,4,4,Headlines classified as positive or catalyst-oriented.
+Risk Items,15,15,Headlines classified as risk-oriented.
+Neutral Items,14,14,Headlines without a clear rules-based direction.
+Average News Score,-0.5454545454545454,-0.55,Average positive-minus-negative keyword score across headlines.
+Overall News Tone,Risk-Leaning,Risk-Leaning,Rules-based tone derived from the average headline keyword score.
+Latest Fetch UTC,2026-05-13T15:07:47.201203+00:00,2026-05-13T15:07:47.201203+00:00,Most recent timestamp when the RSS watchlist was fetched.

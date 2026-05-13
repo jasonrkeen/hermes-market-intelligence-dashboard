@@ -1,0 +1,10 @@
+Metric,Value,Interpretation
+Latest Date,2026-05-13,Most recent date included in the VaR backtest.
+Latest Daily Return,-0.0006333122229259525,Most recent Hermès daily return in the backtest sample.
+Latest EWMA Volatility,0.026106763971770083,Latest daily EWMA volatility estimate.
+Latest Annualized EWMA Volatility,0.4144320300357871,Latest EWMA volatility annualized using 252 trading days.
+Latest GARCH-Style EWMA VaR,-0.04429030851358747,Latest one-day downside threshold from the EWMA VaR model.
+Latest Historical Simulation VaR,-0.030396349748956303,Latest one-day downside threshold from rolling historical simulation.
+Latest Historical Expected Shortfall,-0.043857828586029365,Average tail loss below the latest historical VaR threshold.
+Latest GARCH-Style Breach,False,Whether the latest daily return breached the EWMA VaR threshold.
+Latest Historical VaR Breach,False,Whether the latest daily return breached the historical VaR threshold.

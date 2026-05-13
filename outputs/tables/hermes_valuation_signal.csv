@@ -1,0 +1,5 @@
+Metric,Value,Interpretation
+Base Fair Value Per Share EUR,1927.247914623224,Median of available DCF and peer multiple fair value estimates.
+Current Price EUR,1578.0,Latest available market price used for valuation comparison.
+Implied Upside / Downside,0.22132313981192908,Valuation Supportive
+Valuation Signal,Valuation Supportive,Rules-based valuation view for the market intelligence report.

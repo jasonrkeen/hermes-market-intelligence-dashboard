@@ -1,0 +1,7 @@
+Card,Value,Numeric Value,Interpretation
+Risk Posture,Elevated,65.0,Overall geopolitical risk posture based on configured risk factors.
+Average Risk Score,65.00,65.0,Average geopolitical risk score on a 0-100 scale.
+Highest Risk Category,Regional / Tourism,80.0,Category attached to the highest individual geopolitical risk score.
+Highest Risk Factor,Middle East Conflict / Tourism Disruption,80.0,"Regional conflict can reduce tourist flows, disrupt Middle East luxury demand, and pressure airport and concession sales."
+Configured Risk Factors,8,8.0,Number of geopolitical risk factors included in the pipeline.
+Risk Categories Covered,8,8.0,Number of broad geopolitical risk categories represented.

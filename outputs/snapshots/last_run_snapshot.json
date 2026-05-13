@@ -1,0 +1,15 @@
+{
+  "timestamp_utc": "2026-05-13T15:07:50.668814+00:00",
+  "intelligence_score": 66.14,
+  "signal": "Moderately Constructive",
+  "annualized_return": 0.17,
+  "max_drawdown": -0.4464,
+  "var_breach_rate": 0.0587,
+  "recommendation": "Neutral",
+  "risk_rating": "Medium-High",
+  "valuation_signal": "Valuation Supportive",
+  "geopolitical_posture": "Elevated",
+  "news_tone": "Risk-Leaning",
+  "market_view": "Constructive but monitored",
+  "implied_upside": 0.2213
+}

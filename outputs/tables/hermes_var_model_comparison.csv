@@ -1,0 +1,7 @@
+Comparison Metric,GARCH-Style EWMA VaR,Historical Simulation VaR,Interpretation
+Breach Rate,0.05604288499025341,0.06140350877192982,Lower breach rates suggest a more conservative downside-risk threshold.
+Expected Breach Rate,0.050000000000000044,0.050000000000000044,Model comparison metric.
+Average VaR,-0.02603183508294746,-0.025209232764962362,More negative VaR values indicate a larger average downside-risk estimate.
+Average Expected Shortfall,,-0.034632690188260914,Expected shortfall is available for the historical simulation model.
+Kupiec LR Statistic,1.520708320168751,5.253898614642594,Lower Kupiec LR values generally indicate closer alignment with the expected breach rate.
+Classification,Close to Expected,Close to Expected,Plain-English classification based on observed versus expected breaches.
